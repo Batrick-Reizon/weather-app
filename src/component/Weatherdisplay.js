@@ -6,7 +6,7 @@ function Weatherdisplay({ weatherdata }) {
     }
     return (
         <div className="flex justify-center">
-            <div className="border-2 rounded-md sm:w-9/12 md:w-10/12 lg:w-3/4">
+            <div className="border-2 rounded-md w-full sm:w-9/12 md:w-10/12 lg:w-3/4">
                 <div className="text-center text-xl font-semibold p-2 md:text-2xl lg:text-3xl">
                     <h1>{`${weatherdata.cityname},${weatherdata.countryname}`}</h1>
                     <h1>{`${weatherdata.temperature}`}</h1>
