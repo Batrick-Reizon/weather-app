@@ -9,10 +9,10 @@
 - **Modern & Minimal UI** – Clean layout with Tailwind CSS styling
 
 # Technologies Used
-**HTML5** – for structure and layout
-**Tailwind CSS** – for fast, responsive, and modern UI design
-**React** – for dynamic rendering and API integration
-**OpenWeather API** – for fetching real-time weather data
+- **HTML5** – for structure and layout
+- **Tailwind CSS** – for fast, responsive, and modern UI design
+- **React** – for dynamic rendering and API integration
+- **OpenWeather API** – for fetching real-time weather data
 
 # How to View
 You can check out my Weather App project by visiting https://weather-app-iota-eight-76.vercel.app/.Explore the app, search for your favorite cities, and get accurate weather updates instantly! 🌦️
